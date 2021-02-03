@@ -1,0 +1,96 @@
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    display: inline-block;
+}
+td, th{
+    padding: 10px;
+    border: 2px solid white;
+}
+th{
+    background-color: black;
+    color: blanchedalmond;
+}
+td{
+    background-color: rgb(49, 49, 49);
+    color: blanchedalmond;
+}
+body{
+    height: auto;
+}
+
+header{
+    position: relative;
+    height: 100px;
+    color: blanchedalmond;
+    background:black;
+    text-align: center;
+    padding-top: 10px;
+}
+h1{
+    padding: 10px;
+     text-align: center;
+     font-size: 40px;
+     font-weight: lighter;
+}
+main{
+    height: auto;
+    background-image: url(school.jpg);
+}
+fieldset{
+    width: 200px;
+    height: auto;
+    background: rgb(138, 130, 215);
+    opacity: 5;
+    display: inline-block;
+    text-align: center;
+}
+/* * {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+table{
+
+    border-collapse: collapse;
+};
+td, th{
+    padding: 10px;
+    border: 2px solid black;
+};
+th{
+    background-color: black;
+};
+body{
+    background-color:rgb(138, 130, 215);
+    height: auto;
+};
+header{
+    position: relative;
+    height: 100px;
+    color: blanchedalmond;
+    background:black;
+    text-align: center;
+    padding-top: 10px;
+};
+ h1{
+    padding: 10px;
+     text-align: center;
+     font-size: 1px;
+     font-weight: lighter;
+} ;
+main{
+    height: auto;
+    background-image: url(school.jpg);
+};
+fieldset{
+    width: 5px;
+    background: rgb(138, 130, 215);
+    opacity: 5;
+    display: inline-block;
+    text-align: center;
+}; */
